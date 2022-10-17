@@ -4,11 +4,8 @@
 FORTRAN source code:
 
 CageAssemblyAlignFlex_main.f>>            main program of the diffusion reaction algorithm
-
 diag.f>>                                  subroutine of matrix diagonization
-
 rs.f>>                                    subroutines for the matrix operations
-
 rotatefit.f>>                             subroutine for the rigid-body superposition
 
 
