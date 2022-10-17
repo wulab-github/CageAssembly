@@ -12,7 +12,7 @@ rotatefit.f>>                             subroutine for the rigid-body superpos
 INPUT files:
 
 CageKineticParameter_34.dat>>             sample input of the interaction rate parameters
-
+CAGE.pdb>>                                the template of a fully assembled aprotein cage
 
 OUTPUT files:
 
